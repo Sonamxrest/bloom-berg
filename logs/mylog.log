@@ -1,0 +1,4 @@
+11:44:24.060 [http-nio-8080-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "uk_m1udsvjda4j9cac47tdclnyme"
+  Detail: Key (deal_id)=(NTU0NTY=) already exists.
+11:46:40.614 [http-nio-8080-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "uk_m1udsvjda4j9cac47tdclnyme"
+  Detail: Key (deal_id)=(NTU0NTY=) already exists.
